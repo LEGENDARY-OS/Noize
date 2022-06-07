@@ -1,4 +1,4 @@
-## Disclaimer By Team Codexun
+## Disclaimer By Team AIMusicX
 
 ## Don't try to edit this file otherwise your bot will be crash.
 
