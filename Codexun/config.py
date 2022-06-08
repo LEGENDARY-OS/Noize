@@ -10,7 +10,7 @@ load_dotenv()
 
 que = {}
 admins = {}
-SESSION_NAME = getenv("SESSION_NAME", "session")
+SESSION_NAME = getenv("SESSION_NAME", "BQCE9Ll8CjjHsWVLGDYI4YKStjrzFfJDDZdMl89W-9cRnHVycMki0hdDEVJQ0UE0wUniTap9MkpmimOHfElY9kP9ZyDO_gR3mWwy-qZVekvcJpTI1WnSMw0XZ4ik8Xbayb7_o4J5cPXpni6qcqPSnx418fV_HHiKohtc_bQoAwfAcfNKL0n2E_zadlMeQeT0giEuboiPsKGfeYgSdqo6lll9G0gK44lOeX0vsLC6vuKASUkfQqQtJnFNknox_BqMsxYsvZQeEnRLzlUvmtfb5bWiC68nFGR1WE1oaAdfj4CY-FcA48IY1L-RxC6mCSk6BgW8Fn2Ho-7KiF6FYt8TyRHxbmUSywA")
 BOT_TOKEN = getenv("BOT_TOKEN")
 BOT_NAME = getenv("BOT_NAME")
 BOT_USERNAME = getenv("BOT_USERNAME")
@@ -26,7 +26,7 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 MONGO_DB_URI = getenv("MONGO_DB_URI")
 API_ID = int(getenv("15235059"))
 API_HASH = getenv("352269b9e97005ffbe7f577dd89911e6")
-OWNER_ID = int(getenv("OWNER_ID"))
+OWNER_ID = int(getenv("1805019557"))
 UPDATE = getenv("UPDATE")
 SUPPORT = getenv("SUPPORT")
 START_IMG = getenv("START_IMG")
